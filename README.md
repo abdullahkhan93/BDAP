@@ -10,7 +10,7 @@ certain features.
 
 In this project, the goal is to construct a Stan model with a suitable prior value and make predictions
 of the prices of houses based on the given dataset. Analysis of the data along with model creation, 
-evaluation and assessment of all possibilities of models has laso been provided to go with the optimal
+evaluation and assessment of all possibilities of models has also been provided to go with the optimal
 solution.
 
 ## Dataset
